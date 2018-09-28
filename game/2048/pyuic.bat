@@ -1,0 +1,1 @@
+pyuic5 -o D:\python\game\2048\Ui_2048.py D:\python\game\2048\2048.ui

@@ -1,0 +1,1 @@
+pyuic5 -o D:\python\GUI\Comparator\Ui_Comparator.py D:\python\GUI\Comparator\Ui_Comparator.ui

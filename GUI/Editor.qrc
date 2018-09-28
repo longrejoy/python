@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>about.jpg</file>
+    <file>exit.jpg</file>
+    <file>open.jpg</file>
+    <file>save.jpg</file>
+  </qresource>
+</RCC>

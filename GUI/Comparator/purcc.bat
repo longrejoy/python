@@ -1,0 +1,1 @@
+Pyrcc5 icon.qrc -o Qrc_Comparator.py

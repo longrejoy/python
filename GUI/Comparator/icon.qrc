@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>about.jpg</file>
+    <file>instruction.jpg</file>
+    <file>exit.jpg</file>
+    <file>open.jpg</file>
+    <file>save.jpg</file>
+  </qresource>
+</RCC>

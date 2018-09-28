@@ -1,0 +1,1 @@
+Pyrcc5 Editor.qrc -o Editor_qrc.py

@@ -1,0 +1,1 @@
+pyuic5 -o D:\python\GUI\Editor_ui.py D:\python\GUI\Editor.ui
